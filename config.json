@@ -1,0 +1,9 @@
+
+{
+    "top_n": 20,
+    "default_path": ".",
+    "colors": {
+        "primary": "green",
+        "secondary": "blue"
+    }
+}
